@@ -1,4 +1,4 @@
-# yamlGenerate
+# yaml_generate
 
 ## Build Setup
 
